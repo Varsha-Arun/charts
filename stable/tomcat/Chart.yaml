@@ -1,4 +1,4 @@
-apiVersion: v11
+apiVersion: v11111
 name: tomcat
 description: Deploy a basic tomcat application server with sidecar as web archive container
 icon: http://tomcat.apache.org/res/images/tomcat.png
