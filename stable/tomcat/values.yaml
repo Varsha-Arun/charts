@@ -9,6 +9,7 @@ image:
     tag: "1.0"
   tomcat:
     repository: tomcat
+  tes
     tag: "7.0"
   pullPolicy: IfNotPresent
   pullSecrets: []
